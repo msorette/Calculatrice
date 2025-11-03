@@ -15,7 +15,7 @@ log() {
 
 # Configuration
 LOG_FILENAME="${GITHUB_WORKSPACE:-./target}/upload.log"
-CB_BASE_URL="https://pp-2510281248me.portal.ptc.io:9443/cb"
+CB_BASE_URL="https://pp-2510240748rl.portal.ptc.io:9443/cb"
 URL="${CB_BASE_URL}/rest/xunitresults/"
 
 USER=$1
