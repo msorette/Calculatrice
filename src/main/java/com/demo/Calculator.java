@@ -12,7 +12,7 @@ public class Calculator {
      * @return Le message "Hello world"
      */
     public String sayHello() {
-        return "Hello - world";
+        return "Hello * world";
     }
 
     /**
