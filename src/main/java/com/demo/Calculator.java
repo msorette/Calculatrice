@@ -3,7 +3,7 @@ package com.demo;
 /**
  * Classe Calculator pour la démo d'intégration Codebeamer.
  * Contient des méthodes simples pour démontrer le cycle de développement et tests.
- */
+ */...
 public class Calculator {
 
     /**
